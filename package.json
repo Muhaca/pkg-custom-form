@@ -1,5 +1,8 @@
 {
-  "name": "dt-custom-form",
+  "name": "@muhaca/pkg-custom-form",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/muhaca"
+  },
   "version": "1.0.0",
   "description": "A Simple Custom form",
   "scripts": {
